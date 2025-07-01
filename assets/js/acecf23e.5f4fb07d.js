@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklimq_ai_blog=self.webpackChunklimq_ai_blog||[]).push([[1903],{1912:l=>{l.exports=JSON.parse('{"blogBasePath":"/limq_ai_blog/blog","blogTitle":"Blog","authorsListPath":"/limq_ai_blog/blog/authors"}')}}]);

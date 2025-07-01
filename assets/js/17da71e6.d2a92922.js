@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklimq_ai_blog=self.webpackChunklimq_ai_blog||[]).push([[4475],{3171:l=>{l.exports=JSON.parse('{"metadata":{"permalink":"/limq_ai_blog/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
